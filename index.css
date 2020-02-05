@@ -131,6 +131,7 @@ body {
 }
 
 .Skill_parts {
+  position: relative;
   text-align: center;
   margin: 36px 0 10px 19px;
   padding: 1.5em 1.4em;
