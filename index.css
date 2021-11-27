@@ -172,6 +172,16 @@ body {
   background-position: center center;
 }
 
+.create-image {
+  margin: 2em auto;
+  padding: 1em;
+  width: 90%;
+  background-color: #f6f8fb;
+  color: #666;
+  box-shadow: 0 0 5px 1px #c0c0c0;
+  border-radius: 10px;
+}
+
 .container_two p {
   text-align: center;
   margin: 15px;
@@ -200,9 +210,9 @@ body {
   content: "";
   display: block;
   height: 4px;
-  background: -moz-linear-gradient(to right,#ffb6c1, transparent);
-  background: -webkit-linear-gradient(to right, #ffb6c1, transparent);
-  background: linear-gradient(to right, #ffb6c1, transparent);
+  background: -moz-linear-gradient(to right,#084eeb, transparent);
+  background: -webkit-linear-gradient(to right, #084eeb, transparent);
+  background: linear-gradient(to right, #084eeb, transparent);
 }
 
 .Create-parts a {
@@ -227,7 +237,6 @@ body {
   margin: 25px 10px 0px 0px;
   position: relative;
   padding: 0.8em 1.4em;
-  border: solid 3px #FFBEDA;
   border-radius: 8px;
 }
 
